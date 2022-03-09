@@ -1,0 +1,8 @@
+name: TranscendentMobs2
+version: '${project.version}'
+main: me.sjaeledyr.transcendentmobs2.Main
+api-version: 1.18
+description: Rework of TranscendentMobs
+
+commands:
+  Tmobs:
